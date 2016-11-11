@@ -1,5 +1,5 @@
 # DESCRIPTION: Displays the phone numbers and or email addresses
-#			   in your clipboard
+#	       in your clipboard
 # USAGE: PyExtract.py
 
 import pyperclip 
